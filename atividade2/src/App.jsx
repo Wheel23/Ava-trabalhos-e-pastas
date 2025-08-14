@@ -1,5 +1,5 @@
 import React from 'react'
-import DetalhesProduto from './componets/DetalhesProduto'
+import DetalhesProduto from './components/DetalhesProduto'
 
 const App = () => {
   const produtoA = {
