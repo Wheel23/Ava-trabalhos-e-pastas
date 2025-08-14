@@ -66,3 +66,10 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.container-cards{
+  display: flex; /* Para alinhar os itens lado a lado */
+  flex-direction: row; /* Define a direção do fluxo como linha */
+  gap: 100px; /* Adiciona espaço entre os itens */
+  padding: 10px; /* Adiciona um padding na div container */
+}
