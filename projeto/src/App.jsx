@@ -3,9 +3,7 @@ import TituloPagina from './components/TituloPagina'
 
 
 const App = () => {
-  const produtoA = {
 
-  }
   return (
     <div>
       <TituloPagina />
